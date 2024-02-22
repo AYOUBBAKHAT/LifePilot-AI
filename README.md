@@ -45,3 +45,4 @@ LifePilot est une application de santé révolutionnaire qui utilise l'IA pour f
 ## Avantages
 
 LifePilot utilise vos données de santé pour vous fournir des recommandations personnalisées pour les rappels et les rendez-vous de santé, et vous permet de rejoindre une communauté de professionnels de la santé et d'individus pour partager des conseils, des informations et du soutien.
+## [We are the future generation.](https://www.youtube.com/watch?v=eRLJscAlk1M&ab_channel=PrinceEa)
