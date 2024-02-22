@@ -1,5 +1,3 @@
-<img src="LifePilot-AI/application.png" border="0">
-
 <h1> LifePilot a golden idea waiting to be fulfilled</h1>
 
 # LifePilot (English)
